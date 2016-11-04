@@ -1,6 +1,6 @@
 <?php
-$dbhost = "enwiki.labsdb";
-$dbname = "enwiki_p";
+$dbhost = "fawiki.labsdb";
+$dbname = "fawiki_p";
 $dbuser = "";
 $dbpass = "";
 
